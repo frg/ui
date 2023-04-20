@@ -54,6 +54,12 @@ th {
     font-weight: 600;
 }
 
+section {
+    background-color: #222232;
+    padding: 2px 12px;
+    border-radius: 6px;
+}
+
 blockquote {
     border-left: 4px solid #6a6aa5;
     margin: 1.5em 0em;
@@ -193,7 +199,7 @@ code,
 kbd {
     background: #303046;
     color: #24e5b7;
-    padding: 5px;
+    padding: 4px;
     border-radius: 6px;
 }
 
